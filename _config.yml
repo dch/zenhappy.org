@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://zenhappy.org/
+title: Zen Happy
+subtitle: Say No to materialism and learn to be Zen Happy
+author: Z. Happy
 simple_search: http://google.com/search
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -18,7 +18,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: hi@zenhappy.org
 
 # ----------------------- #
 #    Jekyll & Plugins     #

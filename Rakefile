@@ -8,10 +8,13 @@ ssh_user       = "user@domain.com"
 ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = true
-deploy_default = "rsync"
+deploy_default = "s3"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
+
+# This will be used for deployment type s3
+s3_bucket = "zenhappy"        # AWS s3 bucket to push to must be created first
 
 ## -- Misc Configs -- ##
 
@@ -370,4 +373,10 @@ desc "list tasks"
 task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
+end
+
+desc "Deploy website via s3cmd"
+task :s3 do
+  puts "## Deploying website via s3cmd"
+  ok_failed system("s3cmd sync --delete-removed --acl-public public/* s3://#{s3_bucket}/") # optionally use --reduced-redundancy 
 end
