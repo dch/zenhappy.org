@@ -4,10 +4,10 @@
 
 url: http://zenhappy.org/
 title: Zen Happy
-subtitle: A post a day keeps the Doctor Away
+subtitle: A Post a day Keeps the Doctor Away
 author: Z. Happy
 simple_search: http://google.com/search
-description:
+description: Sharing Happiness one day at a time
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -89,7 +89,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: zenhappy
 disqus_show_comment_count: false
 
 # Google Analytics
