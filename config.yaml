@@ -1,4 +1,21 @@
-baseurl: http://yourSiteHere
-languageCode: en-us
-title: my new hugo site
-...
+baseurl: http://www.zenhappy.org/
+title:  Zen Happy
+author:
+  name: Zen Happy
+languageCode: en-nz
+metadataformat: yaml
+theme: hyde
+disqusShortname: zenhappy
+canonifyurls: false
+builddrafts: false
+permalinks:
+  post: blog/:year/:month/:day/:filename
+  archive: archive/:year/:month/:day/:filename
+  talk: talks/:year/:filename
+params:
+  defaultDescription: A Post a day Keeps the Doctor Away
+  defaultKeywords: zen,mindful
+  highlight: monokai_sublime
+  tagline: "A Post a day Keeps the Doctor Away"
+  copyright: "Copyright (c) 2000 - 2038 Zen Happy ; all rights reserved."
+  gravatarHash: 5cca6682e26539ee49633032eb126fc3
