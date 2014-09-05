@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Walking with Dad"
-date: 2011-12-12 16:06
+date: 2011-12-12
 comments: true
-categories: [Outdoors, Walking, Dad]
+categories: [outdoors, walking, dad]
 ---
 
 One of my earliest memories is from walking with my father.

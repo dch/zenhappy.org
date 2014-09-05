@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Midnight Stars"
-date: 2011-12-16 01:51
+date: 2011-12-16
 comments: true
-categories: [Outdoors, Stars, Midnight, Mum]
+categories: [outdoors, stars, midnight, mum]
 ---
 
 We went camping once and stayed in an old cabin by a lake. It was a

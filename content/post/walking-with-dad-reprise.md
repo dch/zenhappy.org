@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Walking with Dad (Reprise)"
-date: 2012-07-18 16:25
+date: 2012-07-18
 comments: true
-categories: [Outdoors, Walking, Dad]
+categories: [outdoors, walking, dad]
 ---
 
 My first post here was about my earliest memories, walking with my dad.

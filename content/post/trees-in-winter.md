@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Trees in Winter"
-date: 2013-01-24 13:37
+date: 2013-01-24
 comments: true
-categories: nature
+categories: [nature]
 ---
 I vividly remember the first time I saw trees that lose their leaves over
 winter. I was 14, and coming from a country with evergreens and very few

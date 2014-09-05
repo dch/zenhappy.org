@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Hallelujah"
-date: 2011-12-17 01:32
+date: 2011-12-17
 comments: true
 categories: [Children, Music]
 ---

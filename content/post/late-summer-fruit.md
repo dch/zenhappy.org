@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Late Summer Fruit"
-date: 2012-09-06 00:41
+date: 2012-09-06
 comments: true
-categories: food
+categories: [food]
 ---
 Late Summer fruit is like nothing else on earth. Juice drips down my face,
 succulent nectarines, plump peaches, luscious raspberries and blueberries

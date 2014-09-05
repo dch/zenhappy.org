@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Coal Trains"
-date: 2013-01-26 16:13
+date: 2013-01-26
 comments: true
-categories: transport, trains
+categories: [transport, trains]
 ---
 There's no denying it, trains are cool, in some undefinable fashion. And
 the coolest of them all must surely be the coal train, endless carriages

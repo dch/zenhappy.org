@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Sunshine in the Park"
-date: 2012-05-11 12:02
+date: 2012-05-11
 comments: true
 categories: [outdoors]
 ---

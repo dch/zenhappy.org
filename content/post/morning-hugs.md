@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Morning Hugs"
-date: 2012-05-08 23:23
+date: 2012-05-08
 comments: true
 categories: [children, affection]
 ---
